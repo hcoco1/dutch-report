@@ -1,0 +1,5 @@
+/* Widen the content area so short pages use more of the screen.
+   Use max-width: initial; to stretch to the full available width. */
+.md-grid {
+  max-width: 1220px;
+}
